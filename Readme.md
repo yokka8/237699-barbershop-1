@@ -2,7 +2,7 @@
 
 * Студент: [Екатерина Куйбина](https://up.htmlacademy.ru/htmlcss/20/user/237699).
 
----
+--
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
